@@ -17,6 +17,8 @@ maintainers:
           - PhanLe1010
           - c3y1huang
           - hookak
+          - COLDTURNIP
+          - davidcheng0922
       # Unmanaged teams: teams with "managed: false" are tracked in this
       # file for documentation but are excluded from CNCF resource
       # provisioning (mailing lists, service desk, Copilot seats, etc).
